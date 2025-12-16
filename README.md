@@ -21,6 +21,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marzin-bot&show_icons=true&locale=en&layout=compact" alt="marzin-bot" /></p>
 
 
-<a href="https://github.com/sponsors/ryo-ma">
+<a href="https://github.com/sponsors/Marzin-bot">
   <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4" alt="Sponsor"/>
 </a>
